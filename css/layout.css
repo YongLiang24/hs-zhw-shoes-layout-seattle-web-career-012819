@@ -23,9 +23,6 @@
 }
 
 /* Positioning Classes */
-.white-box {
-  background: white;
-}
 
 .featured-brand {
   float: left;
@@ -56,5 +53,3 @@
   width: 32%;
   margin: 10px 17px 0 17px;
 }
-
-
