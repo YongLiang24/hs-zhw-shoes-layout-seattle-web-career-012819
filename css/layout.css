@@ -39,6 +39,11 @@
     width: 30%;
     margin: 10px 0 0 0;
 }
+.middle {
+  float: left;
+  width: 30%;
+  margin: 10px 17px 0 17px;
+}
 
 .right {
   float: left;
@@ -46,8 +51,4 @@
   margin: 10px 0 0 0;
 }
 
-.middle {
-  float: left;
-  width: 30%;
-  margin: 10px 17px 0 17px;
-}
+
