@@ -36,15 +36,15 @@
 
 .left {
     float: left;
-    width: 30%;
+    width: 33.33%;
 }
 .middle {
-  float: left;
-  width: 30%;
+  float:none;
+  width: 33.33%;
 }
 
 .right {
-  float: left;
-  width: 30%;
+  float: right;
+  width: 33..%;
 
 }
